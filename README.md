@@ -1,1 +1,1 @@
-# Atividade_Figma
+Nessa atividade fizemos um aplicativo mostrando os progressos no nosso jogo onde optamos por um design mais simples colocando os tópicos que mais trabalhamos no projeto sendo eles: programação, pixel art, historia e animação. Então em cada tópico tentamos colocar fotos tanto de personagens que desenvolvemos quanto de fases que estamos fazendo, explicando de forma simples e direta a nossa evolução.
